@@ -1,5 +1,6 @@
-### Hi there 👋, it's Mickael
-#### I am a Finance dude with a keen interest in new technology, especially blockchain
+### Hey, welcome! It's Mickael
+#### I am a Finance dude with a keen interest in new technology, especially blockchain.
+
 ![mickaelmichelbanner](http://clipart-library.com/new_gallery/35-358407_black-banner-png.png)
 
 This GitHub is just a fun project, where I am just trying to quench my thirst for learning.
