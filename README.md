@@ -1,5 +1,5 @@
 ### Hey, welcome! It's Mickael
-#### I am a Finance dude with a keen interest in new technology, especially blockchain.
+#### I am the Finance guy with a keen interest in new technology, especially blockchain.
 
 ![mickaelmichelbanner](http://clipart-library.com/new_gallery/35-358407_black-banner-png.png)
 
